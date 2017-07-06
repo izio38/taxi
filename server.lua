@@ -1,3 +1,11 @@
+--[[
+##################
+#    Oskarr      #
+#    MysticRP    #
+#   server.lua   #
+#      2017      #
+##################
+--]]
 
 require "resources/essentialmode/lib/MySQL"
 
